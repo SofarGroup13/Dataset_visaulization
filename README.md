@@ -12,3 +12,4 @@ Datavisualization GUI is the overall graphical part of the visualization system 
 
 ## Work In Progress
 The existing GUI is just a model and doesnt visualize anything in real. Other members of the team are working on the real time visualization of the bag files. Fow now,this GUI just contains a widget box while rest of the above described architecture works perfectly.
+
