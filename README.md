@@ -18,7 +18,12 @@ In this section we will explain the repository's content.
 Pictures of the visualization window are shown here for user to have a clear idea of how the GUI looks
 
 ### Documentation
-This directory contains the doxygen documentation in "html" and "latex" format. For a clear and better idea of the project script and its detailed explanation, go to /documentation/html/index.html. 
+This directory contains the doxygen documentation in "html" and "latex" format. For a clear and better idea of the project script and its detailed explanation, go to 
+
+```
+documentation/index/index.html
+
+```
 
 
 ## Work In Progress
