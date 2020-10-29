@@ -26,7 +26,7 @@ documentation/index/index.html
 ```
 
 ### Src
-This folder contains a python script for the initialization of the MainwWindow. It also contains a file by the name of "final.ui" which is GUI created in Qt designer. For execution of the python script, both the python script and Qt designer file should be in the same directory.
+This folder contains a python script for the initialization of the MainwWindow. It also contains a file by the name of "final.ui" which is GUI created in Qt designer. For execution of the python script, both the python script and Qt designer file should be in the same directory. There are two other files, resource file with extension ".qrc" and a picture. Both of them are important part of the GUI created in qt designer and the GUI cant be initialized without these two files in the same directory.
 
 
 ## Work In Progress
