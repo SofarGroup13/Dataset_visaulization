@@ -25,6 +25,9 @@ documentation/index/index.html
 
 ```
 
+### Src
+This folder contains a python script for the initialization of the MainwWindow. It also contains a file by the name of "final.ui" which is GUI created in Qt designer. For execution of the python script, both the python script and Qt designer file should be in the same directory.
+
 
 ## Work In Progress
 The existing GUI is just a model and doesnt visualize anything in real. Other members of the team are working on the real time visualization of the bag files. Fow now,this GUI just contains a widget box while rest of the above described architecture works perfectly.
