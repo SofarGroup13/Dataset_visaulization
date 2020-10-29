@@ -22,7 +22,6 @@ This directory contains the doxygen documentation in "html" and "latex" format. 
 
 ```
 documentation/index/index.html
-
 ```
 
 ### Src
