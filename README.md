@@ -10,6 +10,17 @@ Datavisualization GUI is the overall graphical part of the visualization system 
 ![Archietecture](https://user-images.githubusercontent.com/63880770/96398805-07195280-11cd-11eb-98fe-a4c83a922050.png)
 
 
+
+## Contents of the repository
+In this section we will explain the repository's content.
+
+### GUI Pictures
+Pictures of the visualization window are shown here for user to have a clear idea of how the GUI looks
+
+### Documentation
+This directory contains the doxygen documentation in "html" and "latex" format. For a clear and better idea of the project script and its detailed explanation, go to /documentation/html/index.html. 
+
+
 ## Work In Progress
 The existing GUI is just a model and doesnt visualize anything in real. Other members of the team are working on the real time visualization of the bag files. Fow now,this GUI just contains a widget box while rest of the above described architecture works perfectly.
 
