@@ -27,6 +27,25 @@ documentation/index/index.html
 ### Src
 This folder contains a python script for the initialization of the MainwWindow. It also contains a file by the name of "final.ui" which is GUI created in Qt designer. For execution of the python script, both the python script and Qt designer file should be in the same directory. There are two other files, resource file with extension ".qrc" and a picture. Both of them are important part of the GUI created in qt designer and the GUI cant be initialized without these two files in the same directory.
 
+## Installation
+The first thing to do, after having cloned the repository in the Ros workspace, is to build the package and install in order to make the files executable, using the following commands in the workspace:
+    
+    ```
+    catkin_make
+    catkin_make install
+    ```
+
+Execute the following commands for Ros related Python libraries 
+    
+    ```
+	sudo apt-update
+	sudo apt install python3-pip
+    sudo apt-get install python3-yaml	
+    sudo pip3 install rospkg catkin-pkg 
+    pip3 install --user pyqt5
+	sudo apt-get install python3-pyqt5
+    ```
+
 
 ## Work In Progress
 The existing GUI is just a model and doesnt visualize anything in real. Other members of the team are working on the real time visualization of the bag files. Fow now,this GUI just contains a widget box while rest of the above described architecture works perfectly.
