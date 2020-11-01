@@ -51,6 +51,12 @@ To run the system:
     ```
     rosrun datavis gui.py
     ```
+This individual python script can also be run from and python Integrated Development Enviroment (IDE) but make sure to have project enviroment built accordingly with the required libraries installed i-e python and PyQt5 libraries
+
+## Video Tutorial
+A video showing how our architecture works in real time can be found at the following link.
+
+[Video](https://web.microsoftstream.com/video/539d41b4-a147-4073-9079-730df4af329f?list=studio)
 
 ## Work In Progress
 The existing GUI is just a model and doesnt visualize anything in real. Other members of the team are working on the real time visualization of the bag files. Fow now,this GUI just contains a widget box while rest of the above described architecture works perfectly.
