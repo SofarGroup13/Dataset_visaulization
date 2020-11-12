@@ -58,6 +58,10 @@ A video showing how our architecture works in real time can be found at the foll
 
 [Video](https://web.microsoftstream.com/video/539d41b4-a147-4073-9079-730df4af329f?list=studio)
 
+## Report
+Detailed decription of the module can be found in the following report shared on a Google Drive
+[Report](https://drive.google.com/file/d/1XSNjg128aYPiz81XUICh7qGQA5AVhxK2/view)
+
 ## Work In Progress
 The existing GUI is just a model and doesnt visualize anything in real. Other members of the team are working on the real time visualization of the bag files. Fow now,this GUI just contains a widget box while rest of the above described architecture works perfectly.
 
